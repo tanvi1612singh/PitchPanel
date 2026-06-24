@@ -1,3 +1,0 @@
-# Never push these to GitHub
-node_modules/
-.env
